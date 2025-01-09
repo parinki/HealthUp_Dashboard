@@ -53,6 +53,12 @@
             <option value="HealthCondition">Health Condition</option>
             <option value="AgeGroup">Age Group</option>
         </select>
+        <label for="grouping">Group By:</label>
+        <select id="grouping" onchange="applyFilters()">
+            <option value="monthly">Monthly</option>
+            <option value="quarterly">Quarterly</option>
+            <option value="yearly">Yearly</option>
+        </select>
     </div>
 
     <label>
@@ -62,35 +68,26 @@
     <div id="filters-container" style="display: none;">
         <div>
             <label for="filter-gender">Gender:</label>
-            <select id="filter-gender">
+            <select id="filter-gender" onchange="applyFilters()">
                 <option value="">All</option>
                 <option value="Male">Male</option>
                 <option value="Female">Female</option>
             </select>
-
+    
             <label for="filter-province">Province:</label>
-            <select id="filter-province">
+            <select id="filter-province" onchange="applyFilters()">
                 <option value="">All</option>
             </select>
-
+    
             <label for="filter-health">Health Condition:</label>
-            <select id="filter-health">
+            <select id="filter-health" onchange="applyFilters()">
                 <option value="">All</option>
             </select>
-
+    
             <label for="filter-age-group">Age Group:</label>
-            <select id="filter-age-group">
+            <select id="filter-age-group" onchange="applyFilters()">
                 <option value="">All</option>
             </select>
-
-            <label for="grouping">Group By:</label>
-            <select id="grouping">
-                <option value="monthly">Monthly</option>
-                <option value="quarterly">Quarterly</option>
-                <option value="yearly">Yearly</option>
-            </select>
-
-            
         </div>
     </div>
 
