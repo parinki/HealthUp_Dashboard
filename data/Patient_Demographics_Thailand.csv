@@ -1,0 +1,301 @@
+PatientID,Age,Gender,Province,HealthCondition,AgeGroup
+P0001,35,Female,Nakhon Ratchasima,Diabetes,20-39
+P0002,23,Female,Bangkok,Obesity,20-39
+P0003,58,Male,Nonthaburi,Heart Disease,40-59
+P0004,84,Female,Nakhon Ratchasima,Diabetes,80+
+P0005,59,Female,Bangkok,Healthy,40-59
+P0006,53,Female,Nakhon Ratchasima,Heart Disease,40-59
+P0007,79,Female,Phuket,Hypertension,60-79
+P0008,35,Female,Nonthaburi,Hypertension,20-39
+P0009,22,Female,Chiang Mai,Diabetes,20-39
+P0010,60,Male,Khon Kaen,Obesity,60-79
+P0011,84,Female,Bangkok,Healthy,80+
+P0012,40,Female,Nakhon Ratchasima,Hypertension,40-59
+P0013,34,Male,Nonthaburi,Diabetes,20-39
+P0014,17,Male,Songkhla,Asthma,0-19
+P0015,59,Female,Khon Kaen,Heart Disease,40-59
+P0016,20,Male,Nakhon Ratchasima,Healthy,20-39
+P0017,25,Male,Songkhla,Heart Disease,20-39
+P0018,76,Male,Nakhon Ratchasima,Hypertension,60-79
+P0019,74,Female,Bangkok,Heart Disease,60-79
+P0020,48,Male,Khon Kaen,Heart Disease,40-59
+P0021,21,Female,Bangkok,Diabetes,20-39
+P0022,83,Male,Khon Kaen,Hypertension,80+
+P0023,72,Female,Chiang Mai,Hypertension,60-79
+P0024,16,Female,Phuket,Asthma,0-19
+P0025,81,Female,Phuket,Heart Disease,80+
+P0026,25,Female,Phuket,Healthy,20-39
+P0027,52,Female,Nonthaburi,Obesity,40-59
+P0028,42,Male,Khon Kaen,Heart Disease,40-59
+P0029,70,Female,Nonthaburi,Heart Disease,60-79
+P0030,73,Female,Khon Kaen,Hypertension,60-79
+P0031,19,Female,Khon Kaen,Hypertension,0-19
+P0032,59,Female,Songkhla,Heart Disease,40-59
+P0033,75,Female,Chiang Mai,Healthy,60-79
+P0034,39,Male,Nonthaburi,Heart Disease,20-39
+P0035,40,Female,Nakhon Ratchasima,Diabetes,40-59
+P0036,31,Female,Nakhon Ratchasima,Diabetes,20-39
+P0037,78,Female,Khon Kaen,Heart Disease,60-79
+P0038,72,Male,Phuket,Heart Disease,60-79
+P0039,76,Male,Khon Kaen,Obesity,60-79
+P0040,67,Male,Phuket,Obesity,60-79
+P0041,44,Male,Chiang Mai,Asthma,40-59
+P0042,45,Male,Bangkok,Hypertension,40-59
+P0043,67,Female,Khon Kaen,Asthma,60-79
+P0044,84,Female,Khon Kaen,Heart Disease,80+
+P0045,53,Male,Phuket,Healthy,40-59
+P0046,49,Female,Khon Kaen,Asthma,40-59
+P0047,54,Male,Khon Kaen,Obesity,40-59
+P0048,48,Male,Khon Kaen,Asthma,40-59
+P0049,80,Female,Phuket,Hypertension,80+
+P0050,78,Male,Khon Kaen,Hypertension,60-79
+P0051,57,Female,Khon Kaen,Hypertension,40-59
+P0052,80,Female,Chiang Mai,Asthma,80+
+P0053,62,Male,Khon Kaen,Diabetes,60-79
+P0054,20,Female,Songkhla,Diabetes,20-39
+P0055,60,Female,Khon Kaen,Healthy,60-79
+P0056,62,Female,Nakhon Ratchasima,Diabetes,60-79
+P0057,16,Female,Khon Kaen,Obesity,0-19
+P0058,40,Male,Phuket,Diabetes,40-59
+P0059,66,Female,Nakhon Ratchasima,Diabetes,60-79
+P0060,40,Male,Phuket,Hypertension,40-59
+P0061,52,Female,Nakhon Ratchasima,Diabetes,40-59
+P0062,62,Female,Bangkok,Asthma,60-79
+P0063,81,Female,Khon Kaen,Healthy,80+
+P0064,58,Male,Nonthaburi,Obesity,40-59
+P0065,52,Male,Bangkok,Hypertension,40-59
+P0066,73,Female,Chiang Mai,Hypertension,60-79
+P0067,78,Male,Phuket,Diabetes,60-79
+P0068,77,Male,Khon Kaen,Diabetes,60-79
+P0069,84,Male,Khon Kaen,Diabetes,80+
+P0070,41,Male,Nakhon Ratchasima,Asthma,40-59
+P0071,27,Female,Khon Kaen,Healthy,20-39
+P0072,39,Female,Khon Kaen,Obesity,20-39
+P0073,50,Male,Phuket,Asthma,40-59
+P0074,53,Female,Chiang Mai,Healthy,40-59
+P0075,64,Female,Nakhon Ratchasima,Hypertension,60-79
+P0076,27,Female,Songkhla,Hypertension,20-39
+P0077,36,Male,Khon Kaen,Diabetes,20-39
+P0078,45,Male,Khon Kaen,Asthma,40-59
+P0079,21,Female,Bangkok,Heart Disease,20-39
+P0080,66,Female,Nonthaburi,Heart Disease,60-79
+P0081,72,Female,Nakhon Ratchasima,Hypertension,60-79
+P0082,43,Female,Songkhla,Asthma,40-59
+P0083,41,Male,Khon Kaen,Obesity,40-59
+P0084,27,Male,Songkhla,Diabetes,20-39
+P0085,42,Female,Nakhon Ratchasima,Asthma,40-59
+P0086,36,Female,Nakhon Ratchasima,Heart Disease,20-39
+P0087,75,Female,Chiang Mai,Diabetes,60-79
+P0088,57,Female,Songkhla,Obesity,40-59
+P0089,56,Female,Khon Kaen,Hypertension,40-59
+P0090,71,Female,Phuket,Healthy,60-79
+P0091,74,Female,Chiang Mai,Healthy,60-79
+P0092,21,Female,Chiang Mai,Diabetes,20-39
+P0093,18,Male,Nakhon Ratchasima,Obesity,0-19
+P0094,24,Male,Songkhla,Heart Disease,20-39
+P0095,39,Female,Nonthaburi,Heart Disease,20-39
+P0096,80,Female,Nonthaburi,Obesity,80+
+P0097,37,Female,Khon Kaen,Hypertension,20-39
+P0098,63,Female,Nonthaburi,Healthy,60-79
+P0099,67,Female,Phuket,Heart Disease,60-79
+P0100,26,Male,Nonthaburi,Diabetes,20-39
+P0101,53,Female,Bangkok,Asthma,40-59
+P0102,61,Female,Nakhon Ratchasima,Hypertension,60-79
+P0103,61,Female,Nonthaburi,Heart Disease,60-79
+P0104,22,Female,Bangkok,Obesity,20-39
+P0105,47,Male,Bangkok,Heart Disease,40-59
+P0106,60,Male,Bangkok,Asthma,60-79
+P0107,79,Female,Nakhon Ratchasima,Heart Disease,60-79
+P0108,82,Male,Phuket,Heart Disease,80+
+P0109,63,Female,Chiang Mai,Obesity,60-79
+P0110,43,Female,Songkhla,Heart Disease,40-59
+P0111,44,Female,Khon Kaen,Heart Disease,40-59
+P0112,61,Male,Chiang Mai,Hypertension,60-79
+P0113,17,Male,Bangkok,Obesity,0-19
+P0114,17,Male,Chiang Mai,Hypertension,0-19
+P0115,47,Female,Bangkok,Diabetes,40-59
+P0116,79,Female,Phuket,Healthy,60-79
+P0117,42,Female,Khon Kaen,Hypertension,40-59
+P0118,22,Female,Chiang Mai,Hypertension,20-39
+P0119,50,Male,Nakhon Ratchasima,Healthy,40-59
+P0120,59,Female,Chiang Mai,Hypertension,40-59
+P0121,59,Male,Chiang Mai,Diabetes,40-59
+P0122,35,Male,Chiang Mai,Asthma,20-39
+P0123,65,Male,Bangkok,Heart Disease,60-79
+P0124,76,Female,Phuket,Hypertension,60-79
+P0125,53,Male,Nakhon Ratchasima,Obesity,40-59
+P0126,72,Male,Chiang Mai,Healthy,60-79
+P0127,32,Female,Khon Kaen,Heart Disease,20-39
+P0128,34,Male,Phuket,Hypertension,20-39
+P0129,59,Female,Phuket,Asthma,40-59
+P0130,43,Female,Khon Kaen,Heart Disease,40-59
+P0131,49,Female,Bangkok,Heart Disease,40-59
+P0132,35,Female,Chiang Mai,Obesity,20-39
+P0133,53,Female,Nakhon Ratchasima,Obesity,40-59
+P0134,29,Female,Songkhla,Diabetes,20-39
+P0135,83,Male,Nonthaburi,Asthma,80+
+P0136,55,Male,Khon Kaen,Obesity,40-59
+P0137,23,Female,Nonthaburi,Asthma,20-39
+P0138,27,Female,Phuket,Heart Disease,20-39
+P0139,73,Male,Nonthaburi,Heart Disease,60-79
+P0140,41,Female,Bangkok,Asthma,40-59
+P0141,65,Female,Bangkok,Asthma,60-79
+P0142,69,Male,Chiang Mai,Asthma,60-79
+P0143,18,Male,Khon Kaen,Heart Disease,0-19
+P0144,17,Female,Khon Kaen,Obesity,0-19
+P0145,35,Female,Nonthaburi,Asthma,20-39
+P0146,73,Female,Phuket,Asthma,60-79
+P0147,24,Female,Khon Kaen,Asthma,20-39
+P0148,57,Female,Songkhla,Obesity,40-59
+P0149,66,Female,Bangkok,Asthma,60-79
+P0150,77,Female,Nonthaburi,Hypertension,60-79
+P0151,44,Female,Chiang Mai,Heart Disease,40-59
+P0152,22,Female,Phuket,Hypertension,20-39
+P0153,56,Male,Nakhon Ratchasima,Obesity,40-59
+P0154,45,Male,Nakhon Ratchasima,Obesity,40-59
+P0155,40,Male,Chiang Mai,Heart Disease,40-59
+P0156,69,Female,Nakhon Ratchasima,Asthma,60-79
+P0157,82,Female,Chiang Mai,Hypertension,80+
+P0158,42,Female,Chiang Mai,Obesity,40-59
+P0159,62,Male,Nonthaburi,Diabetes,60-79
+P0160,42,Male,Nonthaburi,Asthma,40-59
+P0161,34,Male,Khon Kaen,Diabetes,20-39
+P0162,74,Male,Songkhla,Obesity,60-79
+P0163,36,Male,Chiang Mai,Asthma,20-39
+P0164,36,Male,Nonthaburi,Heart Disease,20-39
+P0165,19,Male,Phuket,Heart Disease,0-19
+P0166,55,Female,Phuket,Diabetes,40-59
+P0167,37,Female,Chiang Mai,Hypertension,20-39
+P0168,83,Male,Phuket,Heart Disease,80+
+P0169,75,Male,Songkhla,Obesity,60-79
+P0170,16,Female,Nonthaburi,Asthma,0-19
+P0171,27,Female,Phuket,Diabetes,20-39
+P0172,80,Female,Phuket,Asthma,80+
+P0173,57,Female,Phuket,Asthma,40-59
+P0174,20,Male,Bangkok,Diabetes,20-39
+P0175,32,Female,Phuket,Obesity,20-39
+P0176,60,Male,Songkhla,Diabetes,60-79
+P0177,36,Female,Phuket,Hypertension,20-39
+P0178,69,Female,Nonthaburi,Heart Disease,60-79
+P0179,38,Male,Nonthaburi,Obesity,20-39
+P0180,54,Female,Nonthaburi,Heart Disease,40-59
+P0181,78,Male,Chiang Mai,Diabetes,60-79
+P0182,19,Female,Chiang Mai,Heart Disease,0-19
+P0183,68,Female,Nakhon Ratchasima,Asthma,60-79
+P0184,81,Female,Chiang Mai,Hypertension,80+
+P0185,65,Male,Songkhla,Heart Disease,60-79
+P0186,34,Male,Chiang Mai,Obesity,20-39
+P0187,48,Female,Chiang Mai,Obesity,40-59
+P0188,37,Female,Khon Kaen,Healthy,20-39
+P0189,34,Male,Chiang Mai,Hypertension,20-39
+P0190,37,Male,Nakhon Ratchasima,Hypertension,20-39
+P0191,62,Male,Bangkok,Heart Disease,60-79
+P0192,45,Male,Songkhla,Heart Disease,40-59
+P0193,44,Female,Bangkok,Healthy,40-59
+P0194,79,Female,Nonthaburi,Diabetes,60-79
+P0195,64,Female,Songkhla,Healthy,60-79
+P0196,79,Female,Chiang Mai,Asthma,60-79
+P0197,23,Male,Bangkok,Heart Disease,20-39
+P0198,74,Male,Phuket,Asthma,60-79
+P0199,54,Female,Songkhla,Heart Disease,40-59
+P0200,56,Female,Nakhon Ratchasima,Heart Disease,40-59
+P0201,64,Female,Phuket,Healthy,60-79
+P0202,27,Female,Chiang Mai,Heart Disease,20-39
+P0203,74,Female,Songkhla,Healthy,60-79
+P0204,52,Female,Chiang Mai,Diabetes,40-59
+P0205,42,Male,Songkhla,Diabetes,40-59
+P0206,75,Female,Khon Kaen,Hypertension,60-79
+P0207,73,Male,Bangkok,Healthy,60-79
+P0208,76,Male,Nonthaburi,Obesity,60-79
+P0209,33,Male,Songkhla,Hypertension,20-39
+P0210,32,Female,Khon Kaen,Obesity,20-39
+P0211,42,Female,Phuket,Heart Disease,40-59
+P0212,70,Male,Bangkok,Diabetes,60-79
+P0213,29,Female,Chiang Mai,Heart Disease,20-39
+P0214,46,Female,Khon Kaen,Asthma,40-59
+P0215,80,Female,Bangkok,Asthma,80+
+P0216,63,Male,Bangkok,Obesity,60-79
+P0217,26,Male,Songkhla,Obesity,20-39
+P0218,39,Male,Songkhla,Diabetes,20-39
+P0219,80,Male,Khon Kaen,Diabetes,80+
+P0220,38,Male,Khon Kaen,Asthma,20-39
+P0221,68,Female,Songkhla,Healthy,60-79
+P0222,45,Male,Chiang Mai,Heart Disease,40-59
+P0223,32,Female,Nakhon Ratchasima,Asthma,20-39
+P0224,65,Male,Songkhla,Asthma,60-79
+P0225,48,Female,Songkhla,Obesity,40-59
+P0226,65,Female,Nonthaburi,Obesity,60-79
+P0227,38,Male,Nakhon Ratchasima,Asthma,20-39
+P0228,59,Female,Nakhon Ratchasima,Heart Disease,40-59
+P0229,44,Female,Nakhon Ratchasima,Diabetes,40-59
+P0230,49,Female,Songkhla,Obesity,40-59
+P0231,33,Female,Phuket,Healthy,20-39
+P0232,76,Female,Bangkok,Asthma,60-79
+P0233,51,Female,Chiang Mai,Asthma,40-59
+P0234,39,Male,Phuket,Asthma,20-39
+P0235,71,Female,Nonthaburi,Healthy,60-79
+P0236,48,Male,Songkhla,Hypertension,40-59
+P0237,18,Female,Chiang Mai,Obesity,0-19
+P0238,62,Male,Khon Kaen,Diabetes,60-79
+P0239,67,Female,Chiang Mai,Healthy,60-79
+P0240,28,Male,Nonthaburi,Asthma,20-39
+P0241,31,Male,Phuket,Hypertension,20-39
+P0242,30,Female,Phuket,Heart Disease,20-39
+P0243,47,Female,Phuket,Healthy,40-59
+P0244,57,Male,Nakhon Ratchasima,Heart Disease,40-59
+P0245,50,Male,Songkhla,Asthma,40-59
+P0246,48,Female,Nonthaburi,Hypertension,40-59
+P0247,84,Female,Songkhla,Diabetes,80+
+P0248,50,Male,Songkhla,Obesity,40-59
+P0249,39,Male,Chiang Mai,Healthy,20-39
+P0250,72,Male,Bangkok,Heart Disease,60-79
+P0251,29,Female,Phuket,Obesity,20-39
+P0252,83,Male,Nakhon Ratchasima,Heart Disease,80+
+P0253,27,Female,Bangkok,Asthma,20-39
+P0254,57,Female,Songkhla,Obesity,40-59
+P0255,57,Male,Khon Kaen,Obesity,40-59
+P0256,15,Female,Chiang Mai,Asthma,0-19
+P0257,80,Male,Chiang Mai,Heart Disease,80+
+P0258,58,Male,Chiang Mai,Healthy,40-59
+P0259,36,Male,Nakhon Ratchasima,Hypertension,20-39
+P0260,78,Female,Nakhon Ratchasima,Diabetes,60-79
+P0261,28,Female,Nakhon Ratchasima,Healthy,20-39
+P0262,75,Female,Phuket,Hypertension,60-79
+P0263,49,Female,Songkhla,Heart Disease,40-59
+P0264,47,Female,Chiang Mai,Diabetes,40-59
+P0265,82,Male,Nakhon Ratchasima,Healthy,80+
+P0266,38,Male,Phuket,Asthma,20-39
+P0267,36,Female,Songkhla,Heart Disease,20-39
+P0268,21,Female,Phuket,Diabetes,20-39
+P0269,28,Male,Phuket,Diabetes,20-39
+P0270,60,Male,Nakhon Ratchasima,Hypertension,60-79
+P0271,33,Female,Phuket,Hypertension,20-39
+P0272,65,Male,Songkhla,Hypertension,60-79
+P0273,80,Female,Songkhla,Healthy,80+
+P0274,26,Female,Songkhla,Hypertension,20-39
+P0275,67,Male,Phuket,Obesity,60-79
+P0276,58,Female,Nonthaburi,Asthma,40-59
+P0277,34,Male,Chiang Mai,Healthy,20-39
+P0278,65,Female,Phuket,Diabetes,60-79
+P0279,18,Female,Chiang Mai,Diabetes,0-19
+P0280,81,Female,Chiang Mai,Heart Disease,80+
+P0281,79,Male,Nakhon Ratchasima,Heart Disease,60-79
+P0282,18,Female,Khon Kaen,Healthy,0-19
+P0283,68,Female,Bangkok,Obesity,60-79
+P0284,47,Female,Phuket,Diabetes,40-59
+P0285,67,Male,Nonthaburi,Healthy,60-79
+P0286,68,Female,Bangkok,Asthma,60-79
+P0287,65,Female,Chiang Mai,Obesity,60-79
+P0288,21,Male,Phuket,Diabetes,20-39
+P0289,47,Female,Chiang Mai,Hypertension,40-59
+P0290,18,Male,Khon Kaen,Obesity,0-19
+P0291,43,Male,Khon Kaen,Heart Disease,40-59
+P0292,25,Female,Phuket,Asthma,20-39
+P0293,44,Male,Chiang Mai,Heart Disease,40-59
+P0294,79,Female,Nonthaburi,Diabetes,60-79
+P0295,46,Male,Bangkok,Heart Disease,40-59
+P0296,46,Male,Bangkok,Diabetes,40-59
+P0297,77,Female,Bangkok,Heart Disease,60-79
+P0298,67,Female,Bangkok,Asthma,60-79
+P0299,75,Female,Bangkok,Hypertension,60-79
+P0300,78,Male,Phuket,Hypertension,60-79
